@@ -1,0 +1,38 @@
+/* MENU */
+
+.primary-menu-wrapper {
+    display: flex;
+}
+
+ul.primary-menu {
+    align-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.primary-menu li {
+    white-space: nowrap;    
+}
+
+.primary-menu + .social-menu {
+    margin-left: 2vw;
+}
+
+body:not(.overlay-header) .primary-menu-wrapper .primary-menu > li > a {
+    color: black;
+    transition: color .3s ease;
+}
+
+body:not(.overlay-header) .primary-menu-wrapper .primary-menu > li > a:hover{
+    color: #FE5000;   
+    text-decoration: none;
+}
+
+.social-menu.social-icons a, #site-footer button:not(.toggle){
+    background-color: #000000;
+    transition: background-color .3s ease;
+}
+
+.social-menu.social-icons a:hover{
+    background-color: #FE5000;
+}

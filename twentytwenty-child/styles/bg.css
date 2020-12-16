@@ -1,0 +1,22 @@
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg--full{
+    width: 100%;
+    height: 60vh;
+}
+
+.article_bg_color{
+    background-color:#F8DBBD;
+    padding-top:5vh;
+    padding-bottom:5vh;
+}
+
+.page_bg_color{
+    background-color:#EAEAEA;
+    padding-top:5vh;
+    padding-bottom:5vh;
+}

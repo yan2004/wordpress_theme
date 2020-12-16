@@ -1,0 +1,15 @@
+/*
+    Theme Name:   Twenty Twenty Child
+	Description:  Twenty Twenty Child Theme
+ 	Template:     twentytwenty
+*/
+
+@import url('styles/wrapper.css');
+@import url('styles/text.css');
+@import url('styles/menu.css');
+@import url('styles/wysiwyg.css');
+@import url('styles/gallery-articles.css');
+@import url('styles/bg.css');
+@import url('styles/flex.css');
+@import url('styles/intro.css');
+@import url('styles/article.css');

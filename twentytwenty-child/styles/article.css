@@ -1,0 +1,24 @@
+.post_article_image {
+    float:left;
+    width:30%;
+}
+
+.post_article_categorie {
+    float:left;
+    width:70%;
+    padding-left:8%;
+    padding-right:8%;
+    padding-top:3%;
+}
+
+.post_article_categorie > p {
+    margin-bottom:-5%;
+}
+
+.post_article_des {
+    margin-bottom: -0.3%;
+}
+
+.post_article_prix {
+    margin-top:10%;
+}

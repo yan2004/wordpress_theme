@@ -1,0 +1,45 @@
+/* TEXT */
+
+.title {
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 600;
+    letter-spacing: .025em;
+}
+
+.title--small {
+    font-size: 2vw;
+    text-transform: uppercase;
+}
+
+.slogan{
+    font-size:7rem;
+    color: white;
+}
+
+.vs-title{
+    width: 60%;
+    font-size:1.4em;
+    letter-spacing: 1.2px;
+    word-spacing: 2.4px;
+    color: #191919;
+    text-align:left;
+    padding-top: 15%;
+}
+
+.servai_title{
+    padding-left:7vw; 
+    margin-bottom:-3%;
+}
+
+.servai_sub_title{
+    color:black;
+    text-align:center;
+    margin-top:0em;
+    margin-bottom:0.5em;
+    font-size: 1.5vw;
+}
+
+.page_propos {
+    margin-left:10%; 
+    margin-right:10%;
+}

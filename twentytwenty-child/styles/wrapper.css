@@ -1,0 +1,9 @@
+/* GENERIC */
+
+.wrapper {
+    padding: 0 6vw;
+}
+
+.reduced-spacing.footer-top-visible .footer-nav-widgets-wrapper, .reduced-spacing.footer-top-hidden #site-footer {
+    border-top-width: 0rem;
+}
