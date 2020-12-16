@@ -6,4 +6,5 @@ Install and activate the plugins:
 - Custom Post Type UI
 - Post Types Order
 - Yoast SEO
+
 Create a child theme of the Twenty Twenty theme.
